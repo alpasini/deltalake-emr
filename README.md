@@ -5,7 +5,7 @@
 
 ## Fundamentos de Arquitetura de Dados em Nuvem
 
-#### Alex Pasini
+#### Alex Pasiniii
 
 Repositório com códigos e esteiras de deploy para as atividades do módulo 1 do bootcamp **Engenheiro de Dados Cloud** do IGTI. 
 
